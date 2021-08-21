@@ -71,7 +71,7 @@ Coffee Shop will open tomorrow
 1. **The Coffee Shop would like a new type of customer**
    1. The new type will have the following benefits / restrictions:
       1. Cannot accrue loyalty points
-      2. Will only be charges at 75% of the normal price
+      2. Will only be charged at 75% of the normal price
 2. **The employee benefit of free drinks has been reviewed and no longer viable**
    1. You must change the system to ensure the following rules are implemented
       1. An Employee must pay the full price if the Shop profit is <50
